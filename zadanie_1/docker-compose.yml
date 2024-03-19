@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  kotlin-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"  
+    environment:
+      - TZ=Europe/Warsaw
+      - DEBIAN_FRONTEND=noninteractive
+    volumes:
+      - .:/app 
