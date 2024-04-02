@@ -16,7 +16,7 @@ Demo: demos/4.zip
 
 :white_check_mark: 3.0 wymaganie 3 [Link do commita](https://github.com/TypicalMonkey/E-Biznes/commit/58318894f5a0e7849f12d4d550d3e2fb97f505d7)
 
-Kod: zadanie_2
+Kod: zadanie_3
 Demo: demos/3.zip
 
 
