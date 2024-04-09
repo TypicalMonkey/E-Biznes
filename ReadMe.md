@@ -19,4 +19,11 @@ Demo: demos/4.zip
 Kod: zadanie_3
 Demo: demos/3.zip
 
+**Zadanie 4** Go
+
+:white_check_mark: 3.0 wymaganie 3 [Link do commita](https://github.com/TypicalMonkey/E-Biznes/commit/5715b5aad591b4dd4e4afd81cb3a7b0aa3655eb7)
+
+Kod: zadanie_4_e-biznes/crud
+Demo: demos/3.zip
+
 
