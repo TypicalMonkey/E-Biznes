@@ -27,3 +27,10 @@ Kod: zadanie_4_e-biznes/crud
 Demo: demos/3.zip
 
 
+**Zadanie 5** Frontend
+
+:white_check_mark: 4.0 wymaganie 3.5 [Link do commita](https://github.com/TypicalMonkey/E-Biznes/commit/a9631d68d731fc14040a21689966ba4e1bcef917)
+
+Kod: zadanie_5/crud
+Demo: demos/4.zip
+
