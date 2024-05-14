@@ -34,3 +34,10 @@ Demo: demos/3.zip
 Kod: zadanie_5/crud
 Demo: demos/4.zip
 
+**Zadanie 6** Testy
+
+:white_check_mark: 3.5 wymaganie 3.0 [Link do commita](https://github.com/TypicalMonkey/E-Biznes/commit/7287bdba5f0b5eb85150bdf90ae359ce8fe03875)
+
+Kod: zadanie_6
+Demo: demos/35.zip
+
