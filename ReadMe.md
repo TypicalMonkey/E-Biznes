@@ -41,3 +41,17 @@ Demo: demos/4.zip
 Kod: zadanie_6
 Demo: demos/35.zip
 
+**Zadanie 7** Sonar
+
+:white_check_mark: 4.0 wymaganie 3.5 [Link do commita_dla_clienta](https://github.com/TypicalMonkey/client_7/commits/main/)
+:white_check_mark: 4.0 wymaganie 3.5 [Link do commita_dla_serwera](https://github.com/TypicalMonkey/server_7/commit/785ebacf2de4e7783feea73f906bab8a3bc2e148)
+Kod: client_7
+Kod: server_7
+Demo client_7: demos/4.zip
+
+
+
+
+
+
+
