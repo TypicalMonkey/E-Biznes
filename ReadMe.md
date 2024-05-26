@@ -51,6 +51,13 @@ Kod: server_7
 
 Demo client_7: demos/4.zip
 
+**Zadanie 8** Oauth2
+
+:white_check_mark: 4.0 wymaganie 3.5 [Link do commita](https://github.com/TypicalMonkey/E-Biznes/commit/54817ba487f648334523ee2612ceb5709819f3cf)
+
+Kod: zadanie_8
+Demo: demos/4.zip
+
 
 
 
