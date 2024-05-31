@@ -59,6 +59,13 @@ Kod: zadanie_8
 Demo: demos/4.zip
 
 
+**Zadanie 9** bot
+
+:white_check_mark: 3.0 wymaganie 3.0 [Link do commita](https://github.com/TypicalMonkey/E-Biznes/commit/69df57bbe8917fdfe94eb95fca22cc08af5dbccb)
+
+Kod: zadanie_9
+Demo: demos/3.zip
+
 
 
 
