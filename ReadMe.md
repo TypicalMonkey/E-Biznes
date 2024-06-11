@@ -66,6 +66,13 @@ Demo: demos/4.zip
 Kod: zadanie_9
 Demo: demos/3.zip
 
+**Zadanie 10** Chmura/CI
+
+:white_check_mark: 3.0 wymaganie 3.0 [Link do commita](https://github.com/TypicalMonkey/E-Biznes/commit/6014d7c7b248fad8a942ac86beaa7717c0e833fc)
+
+Kod: zadanie_10
+Demo: demos/3.zip
+
 
 
 
