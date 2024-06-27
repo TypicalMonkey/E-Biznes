@@ -68,9 +68,9 @@ Demo: demos/3.zip
 
 **Zadanie 10** Chmura/CI
 
-:white_check_mark: 3.0 wymaganie 3.0 [Link do commita](https://github.com/TypicalMonkey/E-Biznes/commit/6014d7c7b248fad8a942ac86beaa7717c0e833fc)
+:white_check_mark: 3.0 wymaganie 3.0 [Link do repozytorium](https://github.com/TypicalMonkey/poprawa_10)
 
-Kod: zadanie_10
+Kod: poprawa_10
 Demo: demos/3.zip
 
 
